@@ -2,7 +2,7 @@
   "files": {
     "static/js/0.bc89364a.chunk.js": "./static/js/0.bc89364a.chunk.js",
     "main.css": "./static/css/main.3c2452be.chunk.css",
-    "main.js": "./static/js/main.476e34ab.chunk.js",
+    "main.js": "./static/js/main.d5cfc671.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.82c0adfc.js",
     "static/css/3.8480f29f.chunk.css": "./static/css/3.8480f29f.chunk.css",
     "static/js/3.f0c8129d.chunk.js": "./static/js/3.f0c8129d.chunk.js",
@@ -15,7 +15,7 @@
     "static/js/10.a33e68c4.chunk.js": "./static/js/10.a33e68c4.chunk.js",
     "static/js/11.5677b2f2.chunk.js": "./static/js/11.5677b2f2.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.a3c9dff3ef970c6c585352e5efa4741c.js": "./precache-manifest.a3c9dff3ef970c6c585352e5efa4741c.js",
+    "precache-manifest.2739476346726fb49d3c4e825ae7e4ed.js": "./precache-manifest.2739476346726fb49d3c4e825ae7e4ed.js",
     "service-worker.js": "./service-worker.js",
     "static/js/3.f0c8129d.chunk.js.LICENSE.txt": "./static/js/3.f0c8129d.chunk.js.LICENSE.txt",
     "static/js/5.ac7585f3.chunk.js.LICENSE.txt": "./static/js/5.ac7585f3.chunk.js.LICENSE.txt",
@@ -24,14 +24,13 @@
     "static/js/8.19060eb8.chunk.js.LICENSE.txt": "./static/js/8.19060eb8.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/background_img.afd0fd09.png",
     "static/media/Yearn.png": "./static/media/Yearn.cda8d5a4.png",
-    "static/media/aave.svg": "./static/media/aave.d156e83e.svg",
+    "static/media/aave.png": "./static/media/aave.2dcc77d9.png",
     "static/media/boring_DAO.png": "./static/media/boring_DAO.4d318550.png",
     "static/media/chef.png": "./static/media/chef.80bf44b9.png",
     "static/media/curve.png": "./static/media/curve.66508ee6.png",
-    "static/media/icon1.ico": "./static/media/icon1.4af50c96.ico",
+    "static/media/icon1.png": "./static/media/icon1.d3157172.png",
     "static/media/jiantou.svg": "./static/media/jiantou.dab513d9.svg",
     "static/media/metamask-fox.svg": "./static/media/metamask-fox.c06f3a3e.svg",
-    "static/media/nexus_mutual.jpg": "./static/media/nexus_mutual.22067d4d.jpg",
     "static/media/sushiswap.png": "./static/media/sushiswap.8517afac.png",
     "static/media/text_bg.jpg": "./static/media/text_bg.43a5a4c4.jpg",
     "static/media/wallet-connect.svg": "./static/media/wallet-connect.37f2bc6e.svg"
@@ -41,6 +40,6 @@
     "static/css/3.8480f29f.chunk.css",
     "static/js/3.f0c8129d.chunk.js",
     "static/css/main.3c2452be.chunk.css",
-    "static/js/main.476e34ab.chunk.js"
+    "static/js/main.d5cfc671.chunk.js"
   ]
 }
